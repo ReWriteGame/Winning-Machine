@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e9657e6ba92410448203c8be2232eb9, type: 3}
+  m_Name: Edges
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 5014955991951634887, guid: 83b8bb2521a7c4c41872f193d6fce3e8, type: 3}
+  - {fileID: 5014955991951634887, guid: 797d8f231e2762e46911ea59883dcef4, type: 3}
+  - {fileID: 5014955991951634887, guid: 2f8e8aac7a1d79341876d6b6ca02d4c2, type: 3}
+  - {fileID: 5014955991951634887, guid: 525ec500bb5860a4687249a47c821d6a, type: 3}
+  - {fileID: 5014955991951634887, guid: fd6fa1953a4bec94982320ee47c84a99, type: 3}
+  - {fileID: 5014955991951634887, guid: 4f465518e1417a1478635269127412a7, type: 3}
